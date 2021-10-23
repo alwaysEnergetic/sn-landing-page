@@ -67,7 +67,7 @@ class App extends Component {
                     target="_blank"
                     key={i}
                     rel="noopener noreferrer"
-                    href={`${icon.url}`}
+                    href="https://github.com/alwaysEnergetic/sn-landing-page"
                   >
                     <i className={`fab ${icon.image}`} />
                   </a>
